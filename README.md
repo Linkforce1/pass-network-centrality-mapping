@@ -1,4 +1,4 @@
-# pass-network-centrality-mapping
+# Pass Network Centrality Mapping
 The goal of this project is to visualize and analyze team passing structure using network theory — highlighting which players serve as central hubs and how the ball moves through different parts of the pitch.
 
 This project explores how teams build and distribute possession by analyzing passing networks using soccer event data. By constructing directed graphs of completed passes for each match, we calculate centrality metrics such as degree centrality and betweenness centrality to measure how influential each player is within their team’s passing structure.
